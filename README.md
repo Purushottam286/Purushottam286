@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m passionate about **Cloud Computing**, **DevOps Practices**, and **Machine Learning Integration**.<br>🌟 Skilled in **AWS**, **Linux (RHEL)**, **Python**, **Terraform**, **Java**, **HTML**, **CSS**, **JavaScript**, and **Virtualization**.  <br>🎯 Currently focusing on **building cloud-native applications** and **implementing DevOps pipelines**.  <br>🌱 Always learning new technologies and tools to expand my skillset.</p>
+<p align="left">🔭 I’m passionate about <B>Cloud Computing</B>, **DevOps Practices**, and **Machine Learning Integration**.<br>🌟 Skilled in **AWS**, **Linux (RHEL)**, **Python**, **Terraform**, **Java**, **HTML**, **CSS**, **JavaScript**, and **Virtualization**.  <br>🎯 Currently focusing on **building cloud-native applications** and **implementing DevOps pipelines**.  <br>🌱 Always learning new technologies and tools to expand my skillset.</p>
 
 ###
 
