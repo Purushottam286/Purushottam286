@@ -53,6 +53,6 @@
 
 ###
 
-<p align="left">💼 [LinkedIn](https://www.linkedin.com/in/purushottam-nimje)  <br>🌐 [Portfolio Website](#) *(Add link when available)*  <br>✉️ <B>Email</B>: purushottamnimje286@gmail.com</p>
+<p align="left">💼 [LinkedIn](https://www.linkedin.com/in/purushottam-nimje)  <br>🌐 [Portfolio Website](#) *(https://purushottam286.github.io/)*  <br>✉️ <B>Email</B>: purushottamnimje286@gmail.com</p>
 
 ###
